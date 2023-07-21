@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akkmit
-- 👀 I’m interested in Physics, AI/ML and DATA SCIENCE
+- 👀 I’m interested in Physics, Mathematics, AI/ML and DATA SCIENCE
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (telegram) @a1_m16
